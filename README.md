@@ -11,3 +11,13 @@ O repositório está organizado em diretórios, cada um corespondendo a um tópi
 - `README.md`: Documento complementar que explica detalhadamento o código, os conceitos abordados e as melhores práticas recomendadas.
 
 Este repositório serve como um guia de referência e um ponto de partida para suas práticas de desenvolvimento. Explore cada diretório na ordem sugerida para um aprendizado progressivo e estruturado.
+
+## Material de Apoio
+
+[Código Fonte TV - HTML // Dicionário do Programador](https://www.youtube.com/watch?v=4dQtz1PpY9A)
+
+[DevMedia - HTML o essencial para programação Front-end](https://www.youtube.com/watch?v=qHHXjEmOJyk)
+
+[W3Schools.com](https://www.w3schools.com/html/default.asp)
+
+[DevDocs - DevDocs API Documentation](https://devdocs.io/)
