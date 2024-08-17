@@ -2,7 +2,7 @@
 
 ## O que é Responsividade?
 
-Responsividade é a capacidade de um site se ajustar a diferentes tamanhos de tela e dispositivos. Existem quatro técnicas principais para criar layouts responsivos:
+Responsividade é a capacidade de um site de se ajustar a diferentes tamanhos de tela e dispositivos. Existem quatro técnicas principais para criar layouts responsivos:
 
 1. **CSS Framework**: Utilização de frameworks como Bootstrap ou Foundation.
 2. **CSS Float Property**: Utilização da propriedade `float` para criar layouts flutuantes.

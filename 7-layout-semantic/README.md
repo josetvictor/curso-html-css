@@ -2,7 +2,7 @@
 
 ## O que são Elementos de Layout e HTML Semântico?
 
-HTML semântico usa tags significativas para estruturar o conteúdo de uma página, como `<header>`, `<footer>`, `<section>`, e `<article>`. Esses elementos ajudam a definir a estrutura lógica de uma página.
+HTML semântico usa tags com significados para estruturar o conteúdo de uma página, como `<header>`, `<footer>`, `<section>`, e `<article>`. Esses elementos ajudam a definir a estrutura lógica de uma página.
 
 ### Exemplo de HTML Semântico:
 ```html

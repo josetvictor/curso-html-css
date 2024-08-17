@@ -12,7 +12,7 @@
 
     - `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: A meta tag viewport é essencial para criar páginas responsivas. Ela controla a largura e a escala da viewport no navegador do usuário. O conteúdo width=device-width define a largura da página para ser igual à largura da tela do dispositivo. initial-scale=1.0 define o nível de zoom inicial quando a página é carregada.
 
-    - `<title>Minha Primeira Página Web</title>` : A tag `<title>` define o título da página, que é exibido na aba do navegador ou na barra de título. O título também é utilizado pelos mecanismos de busca para exibir um link para a página nos resultados de pesquisa.
+    - `<title>Minha Primeira Página Web</title>` : A tag `<title>` define o título da página, que é exibido na aba do navegador ou na barra de título. O título também é utilizado pelos mecanismos de busca para exibir um texto como um link para a página nos resultados de pesquisa.
 
 - `<body>`: A tag `<body>` contém todo o conteúdo visível da página web, como textos, imagens, links, etc. O que for colocado dentro do `<body>` será renderizado e exibido ao usuário no navegador.
 
