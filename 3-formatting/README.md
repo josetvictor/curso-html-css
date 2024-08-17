@@ -8,7 +8,7 @@ HTML oferece diversas tags para formatar o texto em uma página web. Essas forma
 
 2. `<strong>` Texto em Negrito com Importância : 
 
-    A tag `<strong>` também aplica negrito ao texto, mas com uma diferença semântica. O conteúdo dentro de `<strong>` é considerado de maior importância. Navegadores e leitores de tela interpretam essa tag como um texto enfatizado.
+    A tag `<strong>` também aplica negrito ao texto, mas com uma diferença semântica: o conteúdo dentro de `<strong>` é considerado de maior importância. Navegadores e leitores de tela interpretam essa tag como um texto enfatizado.
 
 3. `<i>` Texto em Itálico : 
 
@@ -34,4 +34,4 @@ HTML oferece diversas tags para formatar o texto em uma página web. Essas forma
 
     As tags `<sub>` e `<sup>` são usadas para sublinhar texto que deve ser exibido abaixo (subscrito) ou acima (sobrescrito) da linha de base normal do texto. Isso é comum em fórmulas químicas, referências, e notas de rodapé.
 
-Essas tags de formatação de texto em HTML permitem que você controle como o texto é exibido em uma página, garantindo clareza e ênfase onde necessário. Com o uso correto dessas tags, você pode melhorar significativamente a legibilidade e a experiência do usuário em suas páginas web.
+Essas tags de formatação de texto em HTML permitem que você controle como o texto é exibido em uma página, garantindo clareza e ênfase onde for necessário. Com o uso correto dessas tags, você pode melhorar significativamente a legibilidade e a experiência do usuário em suas páginas web.
